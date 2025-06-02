@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@apollo/client": "^3.13.8",
-    "@appbuilder/react": "file:../agora-app-builder/Builds/react-sdk/appbuilder-react-3.1.6-qchAh9OlOw.tgz",
+    "@appbuilder/react": "file:libs/appbuilder-react-3.1.6-qchAh9OlOw.tgz",
     "nanoid": "^4.0.2",
     "react": "^18.3.1",
     "react-confetti": "^6.4.0",
